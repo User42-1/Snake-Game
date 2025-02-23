@@ -137,5 +137,3 @@ function changeDirection(event) {
 window.onload = () => {
     startGame();
 };
-
-function test2() {..};
